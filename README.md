@@ -1,6 +1,6 @@
 #  Causal Impact of Deltas Basic Economy Fare Class on Airline Market Dynamics
 
-# Project Summary: TL;DR Version
+## Project Summary: TL;DR Version
 
 **For a more detailed project summary with visualizations, please see airline_readme.ipynb**
 
